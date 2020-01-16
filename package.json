@@ -1,0 +1,18 @@
+{
+  "name": "myapp",
+  "version": "0.0.1",
+  "description": "docker demo",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "^12.14.1"
+  },
+  "author": "Mauro Andocilla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
