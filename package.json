@@ -13,7 +13,7 @@
   "author": "Mauro Andocilla",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "http-errors": "^1.7.3",
     "mysql": "^2.17.1"
   },
